@@ -1,0 +1,5 @@
+DELETE FROM
+
+Deleta as informações selecionadas
+
+DELETE FROM pessoas WHERE id=1

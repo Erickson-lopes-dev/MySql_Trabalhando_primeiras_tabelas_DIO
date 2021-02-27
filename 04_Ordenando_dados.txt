@@ -1,0 +1,5 @@
+ORDER BY
+
+Ordena a forma como as informações são exibidas 
+
+SELECT * FROM pessoas ORDER BY nome

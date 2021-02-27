@@ -1,0 +1,1 @@
+DELETE FROM pessoas WHERE id=5
