@@ -1,0 +1,5 @@
+GROUP BY
+
+Agrupa as informações de acordo com o critério selecionado
+
+SELECT COUNT(id), genero FROM pessoas GROUP BY genero

@@ -1,0 +1,1 @@
+SELECT COUNT(id), genero FROM pessoas GROUP BY genero
