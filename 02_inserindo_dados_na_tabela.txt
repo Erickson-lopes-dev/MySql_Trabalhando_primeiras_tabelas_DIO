@@ -1,0 +1,5 @@
+INSERT INTO
+
+Indicar as colunas que serão preenchidas e os respectivos valores
+
+INSERT INTO pessoas (nome, nascimento) VALUES ('Erickson', '2001-05-18')
