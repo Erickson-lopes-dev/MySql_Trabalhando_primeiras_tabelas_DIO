@@ -1,0 +1,5 @@
+UPDATE
+
+Alterando informações na tabela
+
+UPDATE pessoas SET nome = 'Erickson Silva'

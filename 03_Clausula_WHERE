@@ -1,0 +1,5 @@
+WHERE
+
+Define uma condiçãp para nosso comando
+
+UPDATE pessoas SET nome = 'Erickson menezes' WHere id=1
