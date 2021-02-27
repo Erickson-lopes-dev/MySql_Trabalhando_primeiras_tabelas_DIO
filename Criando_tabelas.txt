@@ -1,0 +1,5 @@
+CREATE TABLE
+
+Tipos: INT, VARCHAR, DATETIME
+
+CREATE TABLE pessoa (nome VARCHAR(20), nascimento DATE)
